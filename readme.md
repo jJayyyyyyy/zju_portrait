@@ -1,6 +1,6 @@
 Stamp the logo of ZJU on your portrait.
 
-![badge](https://img.shields.io/badge/Python-3.4%2B-brightgreen.svg)
+![badge](https://github.com/jJayyyyyyy/zju_portrait/blob/master/Python-3.4%2B-brightgreen.svg)
 
 ##	Dependence
 
