@@ -1,8 +1,8 @@
-Stamp the logo of ZJU on your portrait.
+灵感来自于浙大校庆，因为当时浙大同学的头像上都印着校徽，而这个Python小程序可以完成相同功能~
+
+##	Dependency
 
 ![badge](https://github.com/jJayyyyyyy/zju_portrait/blob/master/Python-3.4%2B-brightgreen.svg)
-
-##	Dependence
 
 ```bash
 $ pip3 install pillow
