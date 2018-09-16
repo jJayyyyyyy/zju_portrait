@@ -11,10 +11,10 @@ $ pip3 install pillow
 ##	Usage
 
 ```bash
-$ python3 portrait_maker.py octocat.png
+$ python3 zju_portrait.py octocat.png
 ```
 
-where [octocat.png] is any type of image as an input, whose size is better to be larger than 600*600.
+where `octocat.png` could be any type of image, whose size is better to be larger than 600*600.
 
 ##	Demo
 
@@ -40,7 +40,7 @@ where [octocat.png] is any type of image as an input, whose size is better to be
 
     ps: the out-of-radius part of the logo has a special alpha value, so it won't be pasted onto the portrait
 
-There is also a [demo](https://github.com/jJayyyyyyy/cs/tree/master/zju_portrait/demo) folder which could help describe the workflow.
+There is also a [demo](https://github.com/jJayyyyyyy/zju_portrait/tree/master/demo) folder which could help describe the workflow.
 
 ##  Reference
 
